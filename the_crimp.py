@@ -2,7 +2,7 @@ import sys
 
 
 def main():
-    print('the mighty boosh')
+    print('we are the knights who say NI!")
 
 
 def good_day_sir():
